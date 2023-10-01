@@ -32,4 +32,12 @@ wms
 * 视频可以保存下来吗
   * 简单：看硬盘大小
 
-* 
+  
+## spec
+* RFID:
+  * range: 1500 feet
+* NFC:
+  * 20cm
+
+* introduction:
+  * [RFID技术和一、二维码在应用上到底有哪些区别呢](https://zhuanlan.zhihu.com/p/142878520)
